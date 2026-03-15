@@ -1,0 +1,2 @@
+# residential-operations-platform
+This DBMS project focuses on ER modeling, converting ER diagrams into relational tables, and implementing SQL queries, joins, subqueries, views, and triggers in MySQL to manage and retrieve data efficiently.
