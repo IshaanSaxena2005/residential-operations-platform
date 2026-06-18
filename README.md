@@ -180,7 +180,9 @@ This project is created for educational and academic purposes.
 
 ## 👨‍💻 Developer
 
-**ISHAAN SAXENA**
+**Hapreet Singh**
+**Ishaan Saxena**
+**Hardesh Agarwal**
 
 ## 🙏 Acknowledgments
 
