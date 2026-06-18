@@ -181,7 +181,9 @@ This project is created for educational and academic purposes.
 ## 👨‍💻 Developer
 
 **Hapreet Singh**
+
 **Ishaan Saxena**
+
 **Hardesh Agarwal**
 
 ## 🙏 Acknowledgments
